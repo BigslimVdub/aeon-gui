@@ -154,7 +154,7 @@ The executable can be found in the build/release/bin folder.
   
   All needed dependencies can be installed with one line with :
   
-  `brew install gcc boost --c++11 openssl pkgconfig cmake zeromq libsodium libusb unbound libunwind-headers xz ldns pcsc-lite miniupnpc readline expat libgtest doxygen graphviz`
+  `brew install gcc boost --c++11 openssl pkgconfig cmake zeromq libsodium libusb unbound libunwind-headers xz ldns pcsc-lite miniupnpc readline expat doxygen graphviz`
   
   or if you want to re-install to make sure you have them all you can run:
   
