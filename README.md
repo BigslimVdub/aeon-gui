@@ -186,6 +186,10 @@ The executable can be found in the build/release/bin folder.
     This is the directory where Qt 5.x is installed on **your** system
     
     You can also manually edit the paths file by opening and adding in the extension `/Users/admin/Qt/5.11.1/clang_64/bin`
+    
+5.5 Verify Brew has linked everything: 
+
+  `brew link gcc boost --c++11 openssl pkgconfig cmake zeromq libsodium libusb unbound libunwind-headers xz ldns pcsc-lite miniupnpc readline expat doxygen graphviz`
 
 6. Grab an up-to-date copy of the aeon-gui repository (this may take a while)
 
