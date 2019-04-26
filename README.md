@@ -1,6 +1,6 @@
 # Aeon GUI
 
-Copyright (c) 2014-2018, AEON, The Monero Project
+Copyright (c) 2014-2019, AEON, The Monero Project
 
 ## Development resources
 
@@ -273,5 +273,5 @@ The executable can be found in the `.\release\bin` directory.
   ### Debugging a build:
   
 If you are having issues compiling, run the script get_libwallet_api.sh and look for errors in terminal or cmd prompt. 
-
+Call Bob the Bug Man if you find a bug. 
 
